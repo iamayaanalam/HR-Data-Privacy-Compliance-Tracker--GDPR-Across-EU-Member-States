@@ -1,0 +1,11 @@
+1. EDPB — Official EU Guidance: [Search this site later for "employment" or "HR data" guidance documents.]:  https://edpb.europa.eu
+
+
+2. GDPR Article Text: [You'll specifically need Article 9 — it defines "special category data" (biometric, health data fall under this — highest legal risk category).]:  https://gdpr-info.eu
+
+
+3. Real GDPR Fines Database: [This is your most important source — a searchable, filterable database of every public GDPR fine issued. Filter by country and keyword.]:  https://www.enforcementtracker.com
+
+
+
+4. German Data Protection Authority: [Germany has BDSG — an extra law layered on top of GDPR specifically for employment data. Starting here first since Germany has the most HR-specific rules to find.]:  https://www.bfdi.bund.de
