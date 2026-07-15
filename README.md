@@ -1,4 +1,4 @@
-HR Data Privacy Compliance Tracker- GDPR Across EU Member States
+# HR Data Privacy Compliance Tracker- GDPR Across EU Member States
 
 This research is a legal and compliance research repository analyzing the implementation of GDPR in relation to HR data processing in eight EU Member States. This research does not see GDPR as a homogeneous regulation but explains how national derogations in Article 9(4) of GDPR make the compliance obligations of organizations very different when doing business in Europe.
 
