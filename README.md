@@ -104,6 +104,8 @@ Technologies & Skills:
 
 •	Power BI 
 
+•	Tableau
+
 •	Excel 
 
 •	DAX 
